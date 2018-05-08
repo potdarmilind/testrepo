@@ -1,0 +1,4 @@
+build:
+   image: potdarmilind/centos-ansible-aws:latest
+   volumes:
+      - ./:/var/www/vcard
